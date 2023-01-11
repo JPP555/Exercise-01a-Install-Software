@@ -37,16 +37,16 @@ The final state of this file should be as follows (replacing my information with
 # Exercise 01a: Install Software
 
 ## My name is:
-Jason Francis
+Jonathan Perrotta
 
 ## My gamedev.stackexchange.com user number is:
-5338
+169476
 
 ## My github username is:
-BL-MSCH-C220
+JPP555
 
 ## My replit username is:
-BL-MSCH-C220
+JPP555
 
-## I have installed the software on my computer as a part of the exercise
+## I have installed GitHub Desktop but I need help with installing Twine 2.6.0
 ```
